@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Find a passion and strive to be the best at it.*
+
 Use the left arrow to go back!
